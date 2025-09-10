@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.3184fddee90fc94780ca6618c52713ca?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0d%2fa5%2fcb%2f0da5cbca5d728a789100439958f50235.gif&ehk=9u90IxrDO5XFYQAMKWvqKdwg5FiswqF78pObFl6XpQ4%3d" width="800"/>
+<img src="https://miro.medium.com/v2/resize:fit:1100/1*OohqW5DGh9CQS4hLY5FXzA.png" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Mihiran Lakshitha</h1>
 <h3 align="center">An undergraduate IT student at SLIIT passionate about exploring new technologies, languages, and concepts 🚀</h3>
@@ -54,7 +54,7 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mihiran9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mihiran9" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mihiran-lakshitha-a92179305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihiran lakshitha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mihiran-lakshitha-a92179305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihiran lakshitha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1J1QKNRkgj/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihiran lakshitha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mihiran.__?igsh=djl4dzY5d3Y5YTlw&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihiran.__" height="30" width="40" /></a>
 </p>
