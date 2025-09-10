@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1100/1*OohqW5DGh9CQS4hLY5FXzA.png" width="100%"/>
+<img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Mihiran Lakshitha</h1>
 <h3 align="center">An undergraduate IT student at SLIIT passionate about exploring new technologies, languages, and concepts 🚀</h3>
