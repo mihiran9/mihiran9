@@ -1,7 +1,7 @@
 <img src="https://www.bing.com/th/id/OGC.3184fddee90fc94780ca6618c52713ca?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0d%2fa5%2fcb%2f0da5cbca5d728a789100439958f50235.gif&ehk=9u90IxrDO5XFYQAMKWvqKdwg5FiswqF78pObFl6XpQ4%3d" width="1000" height="300"/>
 <h1 align="center">Hi 👋, I'm Mihiran Lakshitha </h1>
 <h3 align="center">I am a passionate IT students who thrives to do their best by learning new languages ,technologies and concepts..</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashi2001&label=Profile%20views&color=0e75b6&style=flat" alt="imashi2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mihiran9&label=Profile%20views&color=0e75b6&style=flat" alt="mihiran9" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -37,13 +37,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=imashi2001&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mihiran9&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imashi2001&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mihiran9&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imashi2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mihiran9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -51,7 +51,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/imashi chandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imashi chandima" height="30" width="40" /></a>
+<a href="https://fb.com/imashi chandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihiran lakshitha" height="30" width="40" /></a>
 <a href="https://instagram.com/imashi_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imashi_2001" height="30" width="40" /></a>
 </p>
 
