@@ -1,5 +1,5 @@
 <img src="https://www.bing.com/th/id/OGC.3184fddee90fc94780ca6618c52713ca?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0d%2fa5%2fcb%2f0da5cbca5d728a789100439958f50235.gif&ehk=9u90IxrDO5XFYQAMKWvqKdwg5FiswqF78pObFl6XpQ4%3d" width="1000" height="300"/>
-<h1 align="center">Hi 👋, I'm Imashi Chandima</h1>
+<h1 align="center">Hi 👋, I'm Mihiran Lakshitha </h1>
 <h3 align="center">I am a passionate IT students who thrives to do their best by learning new languages ,technologies and concepts..</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashi2001&label=Profile%20views&color=0e75b6&style=flat" alt="imashi2001" /> </p>
 
